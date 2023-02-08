@@ -1,0 +1,9 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/share"
+        android:title="Compartir" />
+    <item android:id="@+id/delete"
+        android:title="Eliminar" />
+    <item android:id="@+id/info"
+        android:title="Información" />
+</menu>
